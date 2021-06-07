@@ -2,8 +2,7 @@
 
 Hello People! 
 
-Dani Kop here, am on my way to get started with the endless possibilities that coding has to offer.  
-Am wokring within the built environment, regret it. 
+Dani Kop here, am on my way to get started with the endless possibilities that coding has to offer. Am wokring within the built environment, regret it. 
 
 DO. 
 NOT. 
